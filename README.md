@@ -1,7 +1,7 @@
 # assignment-8-amityadav30
 Course- INFO 6150
-Name- Shubham Sharad Bagal
-NUid- 002776124
+Name- Shardul
+NUid- 0027911555
 email- yadav.am@northeastern.edu
 assignment-8-amityadav30 created by GitHub Classroom
 
