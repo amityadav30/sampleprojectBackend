@@ -1,6 +1,6 @@
 # assignment-8-amityadav30
 Course- INFO 6150
-Name- Amitkumar Radheshyam Yadav
+Name- Shubham Sharad Bagal
 NUid- 002776124
 email- yadav.am@northeastern.edu
 assignment-8-amityadav30 created by GitHub Classroom
